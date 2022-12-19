@@ -10,14 +10,14 @@ A few years ago there was a case non covered by this package: if you wanted to e
 
 We can write a traditionnal "full" SDM model as :
 
-$`Y = \rho WY + X\beta + W X\delta + \varepsilon`$
+$$Y = \rho WY + X\beta + W X\delta + \varepsilon$$
 
 
 The model for which we want to be able to compute impacts measures is :
 
-$`Y = \rho WY + X\beta + W \tilde{X} \gamma + \varepsilon `$
+$$Y = \rho WY + X\beta + W \tilde{X} \gamma + \varepsilon $$
 
-where $`\tilde{X}`$ is a subset of $`X`$.
+where $\tilde{X}$ is a subset of $X$.
 
 
 
